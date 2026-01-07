@@ -1,4 +1,4 @@
-# AI303: Data Science
+# AI303: Data Science (2025)
 
 This repository contains the coursework for the AI303 Data Science course for B.Tech Third Year AI students at NIT Surat.
 

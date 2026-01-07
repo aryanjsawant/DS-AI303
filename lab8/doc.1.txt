@@ -1,0 +1,2 @@
+Machine learning gives computers the ability to learn without being explicitly programmed.
+It is a key part of artificial intelligence.

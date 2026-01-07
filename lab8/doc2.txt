@@ -1,0 +1,2 @@
+Machine learning allows systems to learn from data and improve automatically.
+It plays a vital role in artificial intelligence.
